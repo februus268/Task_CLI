@@ -96,3 +96,6 @@ task-cli/
 ## Purpose
 
 This project was created to practice **Python fundamentals, file handling, JSON data management, command-line interfaces, and CRUD operations**.
+## Project URL
+
+https://roadmap.sh/projects/task-tracker
